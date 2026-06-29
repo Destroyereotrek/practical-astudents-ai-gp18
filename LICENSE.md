@@ -1,4 +1,4 @@
-# 
+# Atualizado Practical AI Projects for Students temas. Com extração de recursos e treinamento de modelos — otimizado para máximo desempenho.
 
 
 
